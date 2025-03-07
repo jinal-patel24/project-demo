@@ -1,4 +1,4 @@
 # project-demo
-This is my 1st git repository.
+This is my 1st Git Repository.
 <br>
-Author name is jinal.
+Author name is Jinal Patel.
